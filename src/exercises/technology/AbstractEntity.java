@@ -1,6 +1,6 @@
 package exercises.technology;
 
-public class AbstractEntity {
+public abstract class AbstractEntity {
     private static int nextIdNumber = 1;
     private int idNumber;
 
